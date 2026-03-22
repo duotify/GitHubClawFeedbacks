@@ -1,16 +1,16 @@
 blank_issues_enabled: true
 
-contact_links:
+course_links:
   - name: 課程頁面
     url: https://learn.duotify.com/courses/githubclaw
     about: 前往課程頁面瀏覽所有章節內容
 
-contact_links:
+troubleshoot:
   - name: Discord 疑難排解
     url: https://discord.com/channels/1263171994468487179/1485109986542751826
     about: 對於小龍蝦的使用問題請到這裡提出
 
-contact_links:
+newfeature:
   - name: Discord 功能建議
     url: https://discord.com/channels/1263171994468487179/1485110432086622398
     about: 對於小龍蝦的核心功能建議請到這裡提出
